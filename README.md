@@ -1,2 +1,2 @@
 # au_SITe
-Alumni Tracking System
+Alumni Tracking System using Code Igniter
